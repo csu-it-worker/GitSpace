@@ -1,11 +1,2 @@
-hello git! 222222
-hello git! hot-fix first change
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
+hello git  master change it
+hello world
