@@ -1,6 +1,1 @@
-hello git  master change it
-hello world hot fix change
-
-change in local
-
-change in remote
+change and push by ssh
